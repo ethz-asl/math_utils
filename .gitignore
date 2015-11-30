@@ -1,0 +1,8 @@
+.cproject
+.project
+bin/
+lib/
+build/
+msg_gen/
+*~
+.DS_Store
